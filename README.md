@@ -1,11 +1,6 @@
-### Hi there 👋
-
-<!--
-**kcjonesevans/kcjonesevans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 [![@kcjonesevans's Holopin board](https://holopin.io/api/user/board?user=kcjonesevans)](https://holopin.io/@kcjonesevans)
 
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning GitHub Actions
 - 👯 I’m looking to collaborate on ...
@@ -14,4 +9,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
--->
+
